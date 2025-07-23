@@ -79,7 +79,7 @@ pip install chainlit
 ```
 
 ## Note:
-Inference speed will depend upon CPU cores and avaialble RAM. It's recomended to have multi core CPU (Laptop / PC) with atleast 16GB RAM. You can deploy it on Server for better performance.
+Inference speed will depend upon CPU cores and avaialble RAM. It's recommended to have multi core CPU (Laptop / PC) with atleast 16GB RAM. You can deploy it on Server for better performance.
 
 Tested on : 
 + Windows 10
